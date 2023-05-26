@@ -1,1 +1,1 @@
-# Za7n_AndroidStudio_reading_diary_app
+Android studio reading app project, completed during my time at university. 
